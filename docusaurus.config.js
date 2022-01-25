@@ -8,14 +8,14 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'JMDS',
   tagline: 'Jamie Docs',
-  url: 'https://docs.jmatthews.ml',
+  url: 'https://jamium.github.io/jamiedocssite',
   baseUrl: '/',
   trailingSlash: 'false',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
   favicon: 'img/favicon.ico',
-  organizationName: 'JMS', // Usually your GitHub org/user name.
-  projectName: 'JMDS', // Usually your repo name.
+  organizationName: 'jamium', // Usually your GitHub org/user name.
+  projectName: 'jamiedocssite', // Usually your repo name.
 
   presets: [
     [
