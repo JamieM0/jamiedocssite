@@ -1,3 +1,1 @@
-# github-lrpnyv
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/github-lrpnyv)
+# JMDS (Jamie Matthews' Documentation Site)
