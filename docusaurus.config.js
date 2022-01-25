@@ -9,7 +9,7 @@ const config = {
   title: 'JMDS',
   tagline: 'Jamie Docs',
   url: 'https://jamium.github.io/',
-  baseUrl: '/jamiedocssite/build/',
+  baseUrl: '/',
   trailingSlash: 'false',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
