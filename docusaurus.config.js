@@ -8,8 +8,8 @@ const darkCodeTheme = require('prism-react-renderer/themes/dracula');
 const config = {
   title: 'JMDS',
   tagline: 'Jamie Docs',
-  url: 'https://jamium.github.io/jamiedocssite',
-  baseUrl: '/jamiedocssite',
+  url: 'https://jamium.github.io/',
+  baseUrl: '/jamiedocssite/',
   trailingSlash: 'false',
   onBrokenLinks: 'throw',
   onBrokenMarkdownLinks: 'warn',
